@@ -6,7 +6,7 @@ using System.Linq;
 
 namespace DX.Data
 {
-	 public class EntityFrameworkObjectDataSource<TDbContext> : IDisposable
+	 public class EntityFrameworkObjectDataSource<TDbContext> /*: IDisposable*/
 		  where TDbContext : DbContext, new()
 	 {
 		  private bool disposed = false;
@@ -20,7 +20,7 @@ namespace DX.Data
 		  }
 
 		  #endregion
-
+		  /*
 		  #region Disposable Pattern
 
 		  public void Dispose()
@@ -41,6 +41,7 @@ namespace DX.Data
 				}
 		  }
 		  #endregion
+		  */
 		  protected TDbContext DBContext { get { return context; } }
 	 }
 	 //[DataObject(true)]

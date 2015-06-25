@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("DX.Data.LinqExtensions")]
 [assembly: AssemblyDescription("Linq Extension Methods and helpers")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("DevExpress")]
+[assembly: AssemblyCompany("Don Wibier / DevExpress")]
 [assembly: AssemblyProduct("DX.Data.LinqExtensions")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("6.1.1.1")]
-[assembly: AssemblyFileVersion("6.1.1.1")]
+[assembly: AssemblyVersion("6.1.1.2")]
+[assembly: AssemblyFileVersion("6.1.1.2")]

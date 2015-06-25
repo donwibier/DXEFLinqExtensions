@@ -6,7 +6,7 @@ using System.Reflection;
 
 namespace DX.Data.Linq
 {
-	 static class LinqDynamicOrderBy
+	 public static class LinqDynamicOrderBy
 	 {
 		  /// <summary>
 		  /// <para>This extension method enables proper sorting expressions to be created at runtime by

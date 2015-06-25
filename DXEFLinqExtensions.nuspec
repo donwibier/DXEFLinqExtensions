@@ -11,8 +11,11 @@
     <iconUrl>https://www.devexpress.com/favicon.ico</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <releaseNotes>First release</releaseNotes>
     <copyright>Copyright 2015</copyright>
     <tags>Linq  Entity Framework EF DevExpress</tags>
   </metadata>
+  <files>
+	 <file src="readme.txt" target="" />
+  </files>
 </package>

@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages/repositories.config
+/Properties/AssemblyInfo.cs
+/DXEFLinqExtensions.csproj
+/DXEFLinqExtensions.sln
+/EntityFrameworkObjectDataSource.cs
+/packages.config
+/Linq/LinqDynamicOrderBy.cs
